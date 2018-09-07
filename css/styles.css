@@ -18,3 +18,9 @@ background-repeat:no-repeat;
 background-size: cover;
 color:white;
 }
+#name{
+  text-align: center;
+}
+#about{
+  text-align: center;
+}
