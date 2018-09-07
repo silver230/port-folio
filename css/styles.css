@@ -2,23 +2,14 @@
   font-size: 20px;
   opacity:4px;
 }
-@media screen and (min-width: 480px) and (max-width: 767px) {
+@media screen and (min-width: 480px){
     body {
         background-color: black;
         color: white;
     }
 }
 
-@media screen and (min-width: 768px) {
-  body {
-    background-color: yellowgreen;
-  }
-  .column {
-    width: 220px;
-    float: left;
-    padding: 15px;
-  }
-}
+
 #me{
   font-size: 16px;
 }
