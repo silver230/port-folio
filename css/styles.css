@@ -8,8 +8,6 @@
         color: white;
     }
 }
-
-
 #me{
   font-size: 16px;
 }
@@ -17,18 +15,36 @@
   font-size: 16px;
 }
 .image{
-  float:right;
+float:right;
 }
 
 body{
-  background-image:url("https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_standard/public/uploads/2012/06/alive-plant-palm-clouds_0.jpg?itok=vTM8rWmm");
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHq1-V5kql2C81Rti0yHtC14G8DGqgnATnmg0QQINZg8yhu8H");
 background-repeat:no-repeat;
 background-size: cover;
-color:black;
+color:white;
+border: 5px solid blue
+font-family:cursive;
 }
 #name{
   text-align: center;
+  font-family: 'Aclonica';
+  font-size: 22px;
 }
 #about{
   text-align: center;
+  color: yellow;
+}
+html{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHq1-V5kql2C81Rti0yHtC14G8DGqgnATnmg0QQINZg8yhu8H");
+  background-repeat:no-repeat;
+  background-size: cover;}
+#about{
+  background-color: black;
+  text-shadow: blue;
+}
+#hoby{
+  text-align: : center;
+  color:red;
+  font-size: 19px;
 }
